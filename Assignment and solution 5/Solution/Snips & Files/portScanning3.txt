@@ -1,0 +1,48 @@
+Ports report on ip 192.168.43.194:
+Port not in use: 1
+Port not in use: 5
+Port not in use: 7
+Port not in use: 18
+Port not in use: 20
+Port in use: 21
+Port not in use: 22
+Port not in use: 23
+Port in use: 25
+Port not in use: 29
+Port not in use: 37
+Port not in use: 42
+Port not in use: 43
+Port not in use: 49
+Port not in use: 53
+Port not in use: 69
+Port not in use: 70
+Port not in use: 79
+Port in use: 80
+Port not in use: 103
+Port not in use: 108
+Port not in use: 109
+Port in use: 110
+Port not in use: 115
+Port not in use: 118
+Port not in use: 119
+Port not in use: 137
+Port not in use: 139
+Port in use: 143
+Port not in use: 150
+Port not in use: 156
+Port not in use: 161
+Port not in use: 179
+Port not in use: 190
+Port not in use: 194
+Port not in use: 197
+Port not in use: 389
+Port not in use: 396
+Port not in use: 443
+Port not in use: 444
+Port not in use: 445
+Port not in use: 458
+Port not in use: 546
+Port not in use: 547
+Port not in use: 563
+Port not in use: 569
+Port not in use: 1080
